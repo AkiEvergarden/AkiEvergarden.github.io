@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.akievergarden.top/tags/index.html</loc>
+    
+    <lastmod>2023-09-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.akievergarden.top/2023/05/27/b2%E4%BA%91%E5%AD%98%E5%82%A8%E4%B8%8EcloudflareSaaS%E7%9A%84ip%E7%B2%BE%E9%80%89/</loc>
     
     <lastmod>2023-09-29</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/2023/04/06/javaweb%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://blog.akievergarden.top/2023/09/28/openjdk-8%E7%9A%84%E7%BC%96%E8%AF%91/</loc>
     
     <lastmod>2023-09-29</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/2023/09/28/openjdk-8%E7%9A%84%E7%BC%96%E8%AF%91/</loc>
+    <loc>https://blog.akievergarden.top/2023/04/06/javaweb%E5%AE%9E%E9%AA%8C/</loc>
     
     <lastmod>2023-09-29</lastmod>
     
@@ -46,15 +55,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://blog.akievergarden.top/tags/index.html</loc>
-    
-    <lastmod>2023-09-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://blog.akievergarden.top/</loc>
@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/tags/%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://blog.akievergarden.top/tags/JVM/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/tags/JVM/</loc>
+    <loc>https://blog.akievergarden.top/tags/%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
