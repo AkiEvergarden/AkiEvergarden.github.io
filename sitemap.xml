@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/2023/09/28/openjdk-8%E7%9A%84%E7%BC%96%E8%AF%91/</loc>
+    <loc>https://blog.akievergarden.top/2023/04/06/javaweb%E5%AE%9E%E9%AA%8C/</loc>
     
     <lastmod>2023-09-29</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/2023/04/06/javaweb%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://blog.akievergarden.top/2023/09/28/openjdk-8%E7%9A%84%E7%BC%96%E8%AF%91/</loc>
     
     <lastmod>2023-09-29</lastmod>
     
@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/tags/JVM/</loc>
+    <loc>https://blog.akievergarden.top/tags/%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.akievergarden.top/tags/%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://blog.akievergarden.top/tags/JVM/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
