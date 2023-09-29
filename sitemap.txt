@@ -1,9 +1,9 @@
-https://blog.akievergarden.top/tags/index.html
 https://blog.akievergarden.top/2023/05/27/b2%E4%BA%91%E5%AD%98%E5%82%A8%E4%B8%8EcloudflareSaaS%E7%9A%84ip%E7%B2%BE%E9%80%89/
 https://blog.akievergarden.top/2023/04/06/javaweb%E5%AE%9E%E9%AA%8C/
 https://blog.akievergarden.top/2023/09/28/openjdk-8%E7%9A%84%E7%BC%96%E8%AF%91/
 https://blog.akievergarden.top/categories/index.html
 https://blog.akievergarden.top/link/index.html
+https://blog.akievergarden.top/tags/index.html
 https://blog.akievergarden.top/
 https://blog.akievergarden.top/tags/%E7%99%BD%E5%AB%96/
 https://blog.akievergarden.top/tags/%E5%AE%9E%E9%AA%8C/
