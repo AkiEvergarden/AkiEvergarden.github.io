@@ -1,0 +1,20 @@
+body {
+    cursor: url(/assests/Normal_Select.gif), default;
+}
+
+a,
+i,
+button,
+span,
+svg,
+img {
+    cursor: url(/assests/Link.gif), pointer;
+}
+
+
+
+input,
+textarea {
+    cursor: url(/assests/Text_Select.gif), text;
+}
+
