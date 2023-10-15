@@ -1,12 +1,14 @@
-https://blog.akievergarden.top/tags/index.html
 https://blog.akievergarden.top/2023/10/06/JNI%E6%9C%AC%E5%9C%B0%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8%E5%88%9D%E6%8E%A2/
+https://blog.akievergarden.top/2023/10/15/Linux%E4%B8%8B%E7%9A%84Redis%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85/
 https://blog.akievergarden.top/2023/05/27/b2%E4%BA%91%E5%AD%98%E5%82%A8%E4%B8%8EcloudflareSaaS%E7%9A%84ip%E7%B2%BE%E9%80%89/
 https://blog.akievergarden.top/2023/04/06/javaweb%E5%AE%9E%E9%AA%8C/
 https://blog.akievergarden.top/2023/09/28/openjdk-8%E7%9A%84%E7%BC%96%E8%AF%91/
 https://blog.akievergarden.top/categories/index.html
 https://blog.akievergarden.top/link/index.html
+https://blog.akievergarden.top/tags/index.html
 https://blog.akievergarden.top/
 https://blog.akievergarden.top/tags/JVM/
+https://blog.akievergarden.top/tags/Redis/
 https://blog.akievergarden.top/tags/%E7%99%BD%E5%AB%96/
 https://blog.akievergarden.top/tags/%E5%AE%9E%E9%AA%8C/
 https://blog.akievergarden.top/categories/%E5%AD%A6%E4%B9%A0/
