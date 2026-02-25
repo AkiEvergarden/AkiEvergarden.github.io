@@ -1,0 +1,4 @@
+.loading-img {
+    background: url("/assests/otto.gif") no-repeat center center;
+    background-size: cover;
+}
